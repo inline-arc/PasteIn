@@ -1,0 +1,11 @@
+
+{% block content %}
+
+    <h1>Shit list</h1>
+    <ul>
+{% for shitlist in shitls %}
+     <li> {{ shitls.title }} <li>
+{% endfor %}
+    </ul>
+
+{% endblock  %}

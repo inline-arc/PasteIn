@@ -11,4 +11,4 @@ class form(models.Model):
     textarea = models.TextField(blank=False)
 
     def __str__(self):
-        return self.title
+        return self.title #set model name 
