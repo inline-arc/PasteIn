@@ -1,6 +1,6 @@
 # PasteIn
 pastebin for my shit
-django and cripy-django form based pastbin kinda clone 
+django and cripy-django form based pastbin kinda clone. boi that works fine on mymachine
 
 1) git clone repo 
 2) make migration 
